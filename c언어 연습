@@ -1,1 +1,27 @@
-
+# include <stdio.h>
+  int Answer_ (const int = n)
+{ 
+  for (int i = 1; i =< n; i++)
+  {  
+     for (int f = 0; i+f<n; f++)
+     { 
+     printf(" ");
+     }
+     for (int g = 1; (2i-1>=g) && (n-g>2i-1) ; g++)
+     {
+     printf("*");
+     }
+     for (int f = 1; i+f>n; f--)
+     {
+     printf(" ");
+     for (int g = 1; 2i-1<g; 
+     
+     
+     
+   3  1 1
+      2 3
+      3 1
+   5  1 1
+      2 3
+      3 5
+   
